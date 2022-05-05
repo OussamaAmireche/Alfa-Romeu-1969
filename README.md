@@ -6,4 +6,4 @@ The objective is to make a web page using only html and css and makes it look cl
 
 ![alt text](https://github.com/OussamaAmireche/Alfa-Romeu-1969/blob/main/alpha-romeo-1969.jpg?raw=true)
 
-Check the result [here](https://oussamaamireche.github.io/Alfa-Romeu-1969/)
+Check the result [here](https://oussamaamireche.github.io/Alfa-Romeu-1969/).
